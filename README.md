@@ -1,1 +1,3 @@
 # Socket_LixS_WinC
+socketを使って、WinClientとLinuxServerで接続。
+クライアントから送った文字列をサーバーのテキストデータとして保存する。
