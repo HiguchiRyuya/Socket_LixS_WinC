@@ -3,8 +3,8 @@
 #include <iostream>
 #include <string>
 
-#define SEVER_IP_ADDRESSE "60.135.230.52"
-#define SERVER_PORT 11110
+#define SEVER_IP_ADDRESSE "127.0.0.1"
+#define SERVER_PORT 12345
 
 #define BUFSIZE 256
 #define RECVSIZE 65536
